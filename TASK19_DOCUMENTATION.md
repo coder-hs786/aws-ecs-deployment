@@ -358,17 +358,28 @@ docs/task19-images/
 
 
 
-### ECS Services
-![ECS Services](docs/task19-images/ecs-services.png)
 
-### Frontend Target Group
-![Frontend Target Group](docs/task19-images/frontend-target.png)
+### 1. ECS Task Definitions
+![ECS Task Definitions](docs/task19-images/tdd%281%29.PNG)
 
-### Backend Target Group
-![Backend Target Group](docs/task19-images/backend-target.png)
+### 2. Frontend Target Group
+![Frontend Target Group](docs/task19-images/frontend-target.PNG)
 
-### Application Access
-![Application Access](docs/task19-images/application.png)
+### 3. Application Load Balancer
+![Application Load Balancer](docs/task19-images/albb%282%29.PNG)
+
+### 4. ECS Services
+![ECS Services](docs/task19-images/services%282%29.PNG)
+
+### 5. Backend Health Check
+![Backend Health Check](docs/task19-images/back-%282%29.PNG)
+
+### 6. E-Commerce Application
+![E-Commerce Application](docs/task19-images/frontend--%281%29.PNG)
+
+### 7. Backend Target Group
+![Backend Target Group](docs/task19-images/backend-target.PNG)
+  
 
 
 17. Key Learnings
